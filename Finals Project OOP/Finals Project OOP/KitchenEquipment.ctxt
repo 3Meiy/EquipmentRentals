@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=KitchenEquipment
+comment1.params=
+comment1.target=KitchenEquipment()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment11.params=
+comment11.target=void\ run()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment7.params=e
+comment7.target=void\ confirm(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ select(java.awt.event.ActionEvent)
+comment9.params=e
+comment9.target=void\ back(java.awt.event.ActionEvent)
+numComments=12

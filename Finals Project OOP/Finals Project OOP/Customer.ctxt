@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=Customer()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ be(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ saveAction(java.awt.event.ActionEvent)
+comment7.params=d
+comment7.target=void\ main(java.lang.String[])
+numComments=8
